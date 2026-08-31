@@ -56,9 +56,9 @@ OSPTEK **0.91 寸 128×32 OLED** 是一款 **I2C** 单色显示模组，驱动�
 ## 仓库结构
 
 ```text
-0.91-oled-128x32-i2c-ssd1306/                                # 仓库根（导航见 ../../README.md）
+0.91-oled-128x32-i2c-ssd1306/  # 仓库根（导航见 ../../README.md）
 └── versions/
-    └── ODM091-12832B102-P4/                                # 本料号完整资料
+    └── ODM091-12832B102-P4/   # 本料号完整资料
         ├── README.md
         ├── README_EN.md
         ├── images/
@@ -84,7 +84,7 @@ OSPTEK **0.91 寸 128×32 OLED** 是一款 **I2C** 单色显示模组，驱动�
 <p align="center">
   <a href="https://shop110742373.taobao.com/"><img alt="淘宝官方店铺" src="https://img.shields.io/badge/淘宝-官方店铺-FF6A00?style=for-the-badge" /></a>
   &nbsp;&nbsp;
-  <a href="https://www.aliexpress.com/store/1105701619"><img alt="速卖通官方店铺" src="https://img.shields.io/badge/速卖通-官方店铺-FF6A00?style=for-the-badge" /></a>
+  <a href="https://www.aliexpress.com/store/1105701619"><img alt="速卖通官方店铺" src="https://img.shields.io/badge/速卖通-官方店铺-E62E04?style=for-the-badge&logo=aliexpress&logoColor=white" /></a>
 </p>
 
 **国内（淘宝）**

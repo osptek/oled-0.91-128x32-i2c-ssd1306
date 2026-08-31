@@ -56,9 +56,9 @@ Current module version: **ODM091-12832B102-P4**. Electrical and mechanical detai
 ## Repository layout
 
 ```text
-0.91-oled-128x32-i2c-ssd1306/                                # repo root (nav: ../../README_EN.md)
+0.91-oled-128x32-i2c-ssd1306/  # repo root (nav: ../../README_EN.md)
 └── versions/
-    └── ODM091-12832B102-P4/                                # full materials for this part number
+    └── ODM091-12832B102-P4/   # full materials for this part number
         ├── README.md
         ├── README_EN.md
         ├── images/

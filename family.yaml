@@ -1,0 +1,13 @@
+category: display
+repo: 0.91-oled-128x32-i2c-ssd1306
+panel:
+  size_inch: '0.91'
+  panel: OLED
+  width: 128
+  height: 32
+  interface: I2C
+  driver: SSD1306
+slogan_zh: OLED 模组 · I2C · SSD1306 · 多版本索引
+slogan_en: OLED module · I2C · SSD1306 · Multi-Version Index
+skus:
+- ODM091-12832B102-P4
