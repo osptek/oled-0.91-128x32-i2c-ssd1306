@@ -31,7 +31,7 @@
 
 OSPTEK **0.91 寸 128×32 OLED** 是一款 **I2C** 单色显示模组，驱动芯片为 **SSD1306**。体积小、接线少，适合状态栏、菜单提示、调试信息等低信息密度显示场景。
 
-规格标识（仓库名）：`0.91-oled-128x32-i2c-ssd1306`
+规格标识（仓库名）：`oled-0.91-128x32-i2c-ssd1306`
 
 当前模组版本：**ODM091-12832B102-P4**。电气与外形细节以 [`docs/ODM091-12832B102-P4.pdf`](./docs/ODM091-12832B102-P4.pdf) 为准。
 
@@ -51,12 +51,12 @@ OSPTEK **0.91 寸 128×32 OLED** 是一款 **I2C** 单色显示模组，驱动�
 
 | 说明 | 路径 |
 | ---- | ---- |
-| ESP32-S3 · SSD1306 I2C bringup（频谱可视化） | [`examples/esp32s3-0.91-oled-128x32-i2c-ssd1306-bringup/`](./examples/esp32s3-0.91-oled-128x32-i2c-ssd1306-bringup/) |
+| ESP32-S3 · SSD1306 I2C bringup（频谱可视化） | [`examples/esp32s3-oled-0.91-128x32-i2c-ssd1306-bringup/`](./examples/esp32s3-oled-0.91-128x32-i2c-ssd1306-bringup/) |
 
 ## 仓库结构
 
 ```text
-0.91-oled-128x32-i2c-ssd1306/  # 仓库根（导航见 ../../README.md）
+oled-0.91-128x32-i2c-ssd1306/  # 仓库根（导航见 ../../README.md）
 └── versions/
     └── ODM091-12832B102-P4/   # 本料号完整资料
         ├── README.md
@@ -77,7 +77,7 @@ OSPTEK **0.91 寸 128×32 OLED** 是一款 **I2C** 单色显示模组，驱动�
 
 ### 示例工程
 
-- [ESP32-S3 SSD1306 I2C bringup](./examples/esp32s3-0.91-oled-128x32-i2c-ssd1306-bringup/)
+- [ESP32-S3 SSD1306 I2C bringup](./examples/esp32s3-oled-0.91-128x32-i2c-ssd1306-bringup/)
 
 ## 购买链接
 

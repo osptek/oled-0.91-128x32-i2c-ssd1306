@@ -29,7 +29,7 @@ This repository holds materials for the **0.91″ 128×32 OLED (I2C · SSD1306)*
 
 The **root README is the navigation page**. Use the table below for a quick scan; open **Full docs** to enter that **part-number folder** under `versions/` (product page, datasheets, and examples live there).
 
-Repo id: `0.91-oled-128x32-i2c-ssd1306`
+Repo id: `oled-0.91-128x32-i2c-ssd1306`
 
 ---
 

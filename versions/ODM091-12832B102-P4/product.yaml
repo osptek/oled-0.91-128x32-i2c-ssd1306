@@ -1,6 +1,6 @@
 sku: ODM091-12832B102-P4
 category: display
-repo: 0.91-oled-128x32-i2c-ssd1306
+repo: oled-0.91-128x32-i2c-ssd1306
 panel:
   size_inch: '0.91'
   panel: OLED
@@ -29,7 +29,7 @@ product_image: true
 hero_alt_zh: OSPTEK 0.91 寸 OLED 128×32 模组（SSD1306）产品图
 hero_alt_en: OSPTEK 0.91&quot; OLED 128×32 module (SSD1306) product image
 examples:
-- path: examples/esp32s3-0.91-oled-128x32-i2c-ssd1306-bringup/
+- path: examples/esp32s3-oled-0.91-128x32-i2c-ssd1306-bringup/
   label_zh: ESP32-S3 · SSD1306 I2C bringup（频谱可视化）
   label_en: ESP32-S3 · SSD1306 I2C bringup (spectrum viz)
   short_zh: ESP32-S3 SSD1306 I2C bringup

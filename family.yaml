@@ -1,5 +1,5 @@
 category: display
-repo: 0.91-oled-128x32-i2c-ssd1306
+repo: oled-0.91-128x32-i2c-ssd1306
 panel:
   size_inch: '0.91'
   panel: OLED

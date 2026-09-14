@@ -31,7 +31,7 @@
 
 OSPTEK **0.91″ 128×32 OLED** is a **monochrome I2C** display module driven by **SSD1306**. Small footprint and few wires make it a fit for status bars, menu hints, and debug text.
 
-Spec ID (repository name): `0.91-oled-128x32-i2c-ssd1306`
+Spec ID (repository name): `oled-0.91-128x32-i2c-ssd1306`
 
 Current module version: **ODM091-12832B102-P4**. Electrical and mechanical details follow [`docs/ODM091-12832B102-P4.pdf`](./docs/ODM091-12832B102-P4.pdf).
 
@@ -51,12 +51,12 @@ Current module version: **ODM091-12832B102-P4**. Electrical and mechanical detai
 
 | Description | Path |
 | ---- | ---- |
-| ESP32-S3 · SSD1306 I2C bringup (spectrum viz) | [`examples/esp32s3-0.91-oled-128x32-i2c-ssd1306-bringup/`](./examples/esp32s3-0.91-oled-128x32-i2c-ssd1306-bringup/) |
+| ESP32-S3 · SSD1306 I2C bringup (spectrum viz) | [`examples/esp32s3-oled-0.91-128x32-i2c-ssd1306-bringup/`](./examples/esp32s3-oled-0.91-128x32-i2c-ssd1306-bringup/) |
 
 ## Repository layout
 
 ```text
-0.91-oled-128x32-i2c-ssd1306/  # repo root (nav: ../../README_EN.md)
+oled-0.91-128x32-i2c-ssd1306/  # repo root (nav: ../../README_EN.md)
 └── versions/
     └── ODM091-12832B102-P4/   # full materials for this part number
         ├── README.md
@@ -77,7 +77,7 @@ Current module version: **ODM091-12832B102-P4**. Electrical and mechanical detai
 
 ### Samples
 
-- [ESP32-S3 SSD1306 I2C bringup](./examples/esp32s3-0.91-oled-128x32-i2c-ssd1306-bringup/)
+- [ESP32-S3 SSD1306 I2C bringup](./examples/esp32s3-oled-0.91-128x32-i2c-ssd1306-bringup/)
 
 ## Buy
 
