@@ -1,0 +1,14 @@
+id: oled-0.91-128x32-i2c-ssd1306
+category: displays
+
+size: "0.91"
+panel: oled
+resolution: 128x32
+interface: [i2c]
+shape: rect
+
+versions:
+  - id: ODM091-12832B102-P4
+    driver: SSD1306
+    touch: none
+    note: none
