@@ -6,6 +6,7 @@ panel: oled
 resolution: 128x32
 interface: [i2c]
 shape: rect
+corner: sharp
 
 versions:
   - id: ODM091-12832B102-P4
